@@ -1,8 +1,8 @@
 {
   "name": "excelentes_datos",
+  "private": true,
   "homepage": "https://mariojs-47.github.io/excelentes_datos",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
